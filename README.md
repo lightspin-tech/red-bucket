@@ -1,4 +1,4 @@
-![Red-Bucket](https://github.com/lightspin-tech/red-bucket2/blob/main/red-bucket.png)
+![Red-Bucket](https://github.com/lightspin-tech/red-bucket/blob/main/red-bucket.png)
 
 
 
@@ -48,4 +48,4 @@ This research was held by Lightspin's Security Research Team.
 For more information, contact us at support@lightspin.io.
 
 ### License
-This repository is available under the [Apache License 2.0](https://github.com/lightspin-tech/red-bucket2/blob/main/LICENSE).
+This repository is available under the [Apache License 2.0](https://github.com/lightspin-tech/red-bucket/blob/main/LICENSE).
