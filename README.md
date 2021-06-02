@@ -17,7 +17,7 @@ The tool analyzes the following:
 ### Our Research
 [Link to the full security research blog - part 1](https://blog.lightspin.io/how-to-access-aws-s3-buckets)
 
-[Link to the full security research blog - part 2](https://blog.lightspin.io/misconfiguerd-s3-buckets)
+[Link to the full security research blog - part 2](https://blog.lightspin.io/risks-of-misconfigured-s3-buckets-and-what-to-do)
 
 ### Requirements
 Red-Bucket is built with Python 3 and Boto3.
